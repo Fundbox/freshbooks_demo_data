@@ -1,12 +1,14 @@
 Demo data script for FreshBooks
 ====================
 
-##This script creates some demo data needed when developing with FreshBooks api
+####This script creates some demo data needed when developing with FreshBooks api
 
 ##Requirements
 
+```
 refreshbooks==1.7.2
 fake-factory==0.3.2
+```
 
 
 ##Configuration
@@ -21,7 +23,6 @@ In the globals, you can also set the number of invoices and clients you want to 
 
 ```
 pip install -r requirements.txt
-
 python create_demo_data.py
 ```
 

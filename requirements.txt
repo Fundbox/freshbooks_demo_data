@@ -1,0 +1,2 @@
+refreshbooks==1.7.2
+fake-factory==0.3.2

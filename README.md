@@ -26,3 +26,7 @@ python create_demo_data.py
 ```
 
 
+## Notes
+ - The Refreshbooks library changes the lxml.objectify behavior, so if you plan to use it in your code, be aware
+
+
